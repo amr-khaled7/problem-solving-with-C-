@@ -9,8 +9,6 @@ int main()
     int sub = x-y;
     long long mul=x;
     mul*=y;
-    cout << x << " + " << y << " = " << sum<< endl;
-    cout << x << " * " << y << " = " << mul<< endl;
-    cout << x << " - " << y << " = " << sub;
+    cout << x << " + " << y << " = " << sum<< endl << x << " * " << y << " = " << mul<< endl<< x << " - " << y << " = " << sub;
     return 0;
 }
