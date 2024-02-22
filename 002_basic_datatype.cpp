@@ -13,9 +13,6 @@ int main()
     cin >> ch;
     cin >> f;
     cin >> d;
-    cout << x << endl<< y << endl;
-    cout << ch << endl;
-    cout << f << endl;
-    cout << d << endl;
+    cout << x << endl<< y << endl<< ch << endl<< f << endl<< d << endl;
     return 0;
 }
